@@ -5,6 +5,11 @@
 #KODIPROP:inputstream.adaptive.license_key=9d0ec7eae222e924b73dccdc0eccf731:b0b2cc24d7c1a89a966b0178b9e7e801
 https://ABGQJFUAAAAAAAAMNP5SGYDCMWA46.16b141291fc74f3284dda96932742e43.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/vfluquyen6/out/v1/348eeafa99c34fa982c67678f42c8cfa/cenc.mpd
 
+#EXTINF:-1 tvg-logo="" group-title="IPL", FANCODE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=159a2b4e1d2d7f16892d35d935a2fb34:07809840dd0f511221ca78459167d1b3
+https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/gdhz5mhnyu/out/v1/fe72171ab2684ab8b9ee3e2ffcc9cff2/cenc.mpd
+
 #EXTINF:-1 tvg-logo="" group-title="IPL", ASTRO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
