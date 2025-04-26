@@ -1,10 +1,9 @@
 "#EXTM3U
 
 #EXTINF:-1 tvg-logo="" group-title="IPL", WILLOW
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=867ab2da044bcc1e4cc1a9252b03ce3e:0db59352d361b0a132c0a64bb231750a
-https://abhvfwoaaaaaaaamge5xi5icfzq64.otte.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xjrxodbgeh/out/v1/69b95861163a42d9a34a1d4ceece7a7a/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=9d0ec7eae222e924b73dccdc0eccf731:b0b2cc24d7c1a89a966b0178b9e7e801
+https://ABGQJFUAAAAAAAAMNP5SGYDCMWA46.16b141291fc74f3284dda96932742e43.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/vfluquyen6/out/v1/348eeafa99c34fa982c67678f42c8cfa/cenc.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="IPL", ASTRO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
