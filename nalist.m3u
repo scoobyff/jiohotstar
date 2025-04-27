@@ -1,9 +1,23 @@
 "#EXTM3U
 
-#EXTINF:-1 tvg-logo="https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/4/1/2/1440412_willowtvlogo_775034.jpg" group-title="IPL", WILLOW 1
+#EXTINF:-1 tvg-logo="https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/4/1/2/1440412_willowtvlogo_775034.jpg" group-title="IPL", WILLOW
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cccadc22dd01226f78f11ad5de50d388:fe9a837a99ba4eb526cbb55b3ef169ca
 https://ABGQJFUAAAAAAAAMHEYIUYPC4LRNW.a49a6f2060d642f896e304ba6100cbce.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/0dg4by6sxy/out/v1/e9b7150196154933926b05211c41f662/cenc.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="IPL",SS1
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)
+#EXTVLCOPT:Cookie=hdntl=exp=1745762276~acl=*sshindi*~id=0965fb851bb18fa78c3ec9bcc24a4002~data=hdntl~hmac=aa7edc8877e882e5e30d5d11377486eef83344c037aa8e575502d772e10cb34a
+#EXTVLCOPT:Referer=https://www.example.com
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d
+https://sshindidash-i.akamaihd.net/dash/live/2002466-b/sshindiwv/master.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="IPL" SS1
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15) 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d 
+https://sshindidash-i.akamaihd.net/dash/live/2002466-b/sshindiwv/master.mpd?|Cookie=hdntl=exp=1745762276~acl=*sshindi*~id=0965fb851bb18fa78c3ec9bcc24a4002~data=hdntl~hmac=aa7edc8877e882e5e30d5d11377486eef83344c037aa8e575502d772e10cb34a&User-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)&drmScheme=clearkey&drmLicense=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d
 
 #EXTINF:-1 tvg-logo="" group-title="IPL", FANCODE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
