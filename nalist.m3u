@@ -6,13 +6,9 @@
 https://ABGQJFUAAAAAAAAMHEYIUYPC4LRNW.a49a6f2060d642f896e304ba6100cbce.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/0dg4by6sxy/out/v1/e9b7150196154933926b05211c41f662/cenc.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="IPL",SS1
-#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)
-#EXTVLCOPT:Cookie=hdntl=exp=1745762276~acl=*sshindi*~id=0965fb851bb18fa78c3ec9bcc24a4002~data=hdntl~hmac=aa7edc8877e882e5e30d5d11377486eef83344c037aa8e575502d772e10cb34a
-#EXTVLCOPT:Referer=https://www.example.com
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d
-https://sshindidash-i.akamaihd.net/dash/live/2002466-b/sshindiwv/master.mpd
-
+#KODIPROP:inputstream.adaptive.license_key=698b34c82c6722d845ad4f8d03c16da6:ac4485581f9bf86d430617ec1ae9af33
+https://ABGQJFUAAAAAAAAMA27HCFXGNZAM7.49b5c821239e431d869d8f7cf3894b4f.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ykcjbbz7kb/out/v1/59ffb8195365496abf42c813e5c484f6/cenc.mpd
 #EXTINF:-1 tvg-logo="" group-title="IPL" SS1
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15) 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
