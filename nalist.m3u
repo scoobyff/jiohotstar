@@ -1,9 +1,9 @@
 "#EXTM3U
 
-#EXTINF:-1 tvg-logo="https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/4/1/2/1440412_willowtvlogo_775034.jpg" group-title="IPL", WILLOW
+#EXTINF:-1 tvg-logo="https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/4/1/2/1440412_willowtvlogo_775034.jpg" group-title="IPL", WILLOW 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9d0ec7eae222e924b73dccdc0eccf731:b0b2cc24d7c1a89a966b0178b9e7e801
-https://ABGQJFUAAAAAAAAMNP5SGYDCMWA46.16b141291fc74f3284dda96932742e43.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/vfluquyen6/out/v1/348eeafa99c34fa982c67678f42c8cfa/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=cccadc22dd01226f78f11ad5de50d388:fe9a837a99ba4eb526cbb55b3ef169ca
+https://ABGQJFUAAAAAAAAMHEYIUYPC4LRNW.a49a6f2060d642f896e304ba6100cbce.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/0dg4by6sxy/out/v1/e9b7150196154933926b05211c41f662/cenc.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="IPL", FANCODE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
