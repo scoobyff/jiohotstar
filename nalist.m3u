@@ -41,6 +41,12 @@ https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/gdh
 #KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
 https://streamdog.site/proxy/noob/stream.php/linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
 
+EXTINF:-1 tvg-logo="https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/4/1/2/1440412_willowtvlogo_775034.jpg" group-title="IPL", SKY I
+https://top1-cdnnew.newkso.ru/top1-cdn/l9bFiUsyHg/mono.m3u8
+
+EXTINF:-1 tvg-logo="https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/4/1/2/1440412_willowtvlogo_775034.jpg" group-title="IPL", SKY II
+https://iplislive.pages.dev/copy-karne-wala-gay-bsdk-2-baap-ka.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="GitTv",Champions Trophy (Prime HEVC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
