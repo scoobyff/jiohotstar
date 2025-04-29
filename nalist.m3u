@@ -103,7 +103,7 @@ https://dai.google.com/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
 #EXTINF:-1 tvg-id="817" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="SonyLIV",SONY TEN 4
 https://dai.google.com/ssai/event/hInaEKUJSziZAGv9boOdjg/master.m3u8
 
-#EXTINF:-1 tvg-id="1773" tvg-name="Sony Ten 4 HD Telugu" tvg-type="Sports" group-title="Sports" tvg-language="Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_4_HD_Telugu.png",Sony Ten 4 HD Telugu
+#EXTINF:-1 tvg-id="1773" tvg-name="Sony Ten 4 HD Telugu Ff" tvg-type="Sports" group-title="Sports" tvg-language="Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_4_HD_Telugu.png",Sony Ten 4 HD Telugu
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=0df5f800775c5979ab8aeaff28ee674b:47dd1b9c8d4049760059aab27bddf1cb
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
