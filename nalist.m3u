@@ -3,10 +3,10 @@
 #EXTINF:-1 tvg-logo="https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/4/1/2/1440412_willowtvlogo_775034.jpg" group-title="IPL", WILLOW XTRA
 http://opplex.rw:8080/live/7553/7553/167582.ts
 
-#EXTINF:-1 tvg-logo="https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/4/1/2/1440412_willowtvlogo_775034.jpg" group-title="IPL", WILLOW M1
+#EXTINF:-1 tvg-logo="https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/4/1/2/1440412_willowtvlogo_775034.jpg" group-title="IPL", WILLOW M1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ade2466c4bb1b9b9422f8d171913c14:f355d3cd2c830825c7606d258198174f
-https://ABGQJFUAAAAAAAAMDTBITKHSTRPSS.011b25135cd74851bc12e363a339466e.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/9vgd27zgam/out/v1/a07244afeb0140acb50c813d6aaebf7a/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=5a5c128d4321b6f9181dff06780230e0:3a0663824266168b8e36a0b80e8e9a07
+https://ABGQJFUAAAAAAAAMK6KLGH36I36OB.185e6f9e1e89471181d342ca244961b7.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/sgvlgqt8yk/out/v1/bacbd1bae3db45e5a08c92e9ee0139b0/cenc.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="IPL", WILLOW M2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
