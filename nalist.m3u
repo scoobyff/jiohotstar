@@ -103,6 +103,13 @@ https://dai.google.com/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
 #EXTINF:-1 tvg-id="817" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="SonyLIV",SONY TEN 4
 https://dai.google.com/ssai/event/hInaEKUJSziZAGv9boOdjg/master.m3u8
 
+#EXTINF:-1 tvg-id="1773" tvg-name="Sony Ten 4 HD Telugu" tvg-type="Sports" group-title="Sports" tvg-language="Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_4_HD_Telugu.png",Sony Ten 4 HD Telugu
+https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_4_HD_Telugu_BTS/output/index.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=0df5f800775c5979ab8aeaff28ee674b:47dd1b9c8d4049760059aab27bddf1cb
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux; Android 13) ExoPlayerLib/2.11.7
+#EXTHTTP:{"cookie":"__hdnea__=st=1745888355~exp=1745974755~acl=/*~hmac=27a4998b7410cd8b7e080d31400f19928248cebed8ab75edb7509548d5b7e83b"}
+
 #EXTINF:-1 tvg-id="155" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLIV",SONY TEN 5 HD
 https://dai.google.com/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
 
