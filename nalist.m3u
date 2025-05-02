@@ -6,6 +6,9 @@ https://raw.githubusercontent.com/scoobyff/jiohotstar/main/willow2.m3u8
 #EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Star Sports 1 HD.png" group-title="IPL", SS1 Telugu
 https://raw.githubusercontent.com/scoobyff/jiohotstar/main/ss1telugu.m3u8
 
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Star Sports 1 HD.png" group-title="IPL", SS1 English
+https://www.tbn24.com/api/video/4028_0.m3u8
+
 #EXTINF:-1 tvg-logo="https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/4/1/2/1440412_willowtvlogo_775034.jpg" group-title="IPL", WILLOW XTRA
 http://opplex.rw:8080/live/7553/7553/167582.ts
 
