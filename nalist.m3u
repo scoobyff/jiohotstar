@@ -200,6 +200,13 @@ https://dai.google.com/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
 #EXTINF:-1 tvg-id="817" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="SonyLIV",SONY TEN 4
 https://dai.google.com/ssai/event/hInaEKUJSziZAGv9boOdjg/master.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b9d4acedc66c5660a1e06197a55bccd2:dd53bab1a42f41ae8f0a5c8fd286f456
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux; Android 13) ExoPlayerLib/2.11.7
+#EXTHTTP:{"cookie":"__hdnea__=st=1746233899~exp=1746320299~acl=/*~hmac=74c9485cfa4e1cee6ef41958487d03f5e0b269836ed6a0d5cb20deaa9d5e40e7"}
+#EXTINF:-1 tvg-id="143" tvg-name="CNBC Tv18 Prime Hd" tvg-type="Business News" group-title="Business News" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNBC_Tv18_Prime_HD.png",CNBCx Tv18 Prime HD
+https://jiotvmblive.cdn.jio.com/bpk-tv/CNBC_Tv18_Prime_HD_BTS/output/index.mpd
+
 #EXTINF:-1 tvg-id="1773" tvg-name="Sony Ten 4 HD Telugu Ff" tvg-type="Sports" group-title="Sports" tvg-language="Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_4_HD_Telugu.png",Sony Ten 4 HD Telugu
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=0df5f800775c5979ab8aeaff28ee674b:47dd1b9c8d4049760059aab27bddf1cb
