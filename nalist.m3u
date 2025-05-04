@@ -1,5 +1,12 @@
 "#EXTM3U
 
+#EXTINF:-1 
+tvg-logo="" group-title="IPL", TEL Ad Free
+#EXTHTTP:{"User-agent":"Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)"}
+#EXTHTTP:{"cookie":"hdntl=exp=1746430813~acl=%2f*~id=458afbc5d190c9e21a1cd35d77198a3b~data=hdntl~hmac=b6ade911e9648a40f821e6a8c0d8c9da28382eb5cc0969453f1388aac02c9ddb"}
+https://jcevents.hotstar.com/bpk-tv/JS_M1_IPL25_TEL_IDC_MOB/Fallback/index2.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/4/1/2/1440412_willowtvlogo_775034.jpg" group-title="IPL", WILLOW 24*7
 https://raw.githubusercontent.com/scoobyff/jiohotstar/main/willow2.m3u8
 
