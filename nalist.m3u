@@ -191,8 +191,7 @@ https://d14vo2b97spizt.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetelugu/channel_list/1170x658withlogo383e4b53bf8f4558a0ac9ce2657ba342.png" group-logo="" group-title="ZEE5", Zee Telugu
 https://live.drmlive-02.workers.dev/zee/zeetelugu.m3u8
 
-#EXTINF:-1 tvg-id="zee-cinemalu" tvg-name="Zee Cinemalu" tvg-language="Telugu" tvg-country="IN"
-group-title="ZEE5" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/mzmazx.png" tvg-chno="zee-cinemalu" group-title="Movies",Zee Cinemalu
+#EXTINF:-1 tvg-id="zee-cinemalu" tvg-name="Zee Cinemalu" tvg-language="Telugu" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/mzmazx.png" tvg-chno="zee-cinemalu" group-title="ZEE5",Zee Cinemalu
 https://live.drmlive-02.workers.dev/zee/zeecinemalu.m3u8
 
 
