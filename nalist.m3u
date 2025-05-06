@@ -188,6 +188,15 @@ https://dssp63pjfajz9.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8
 #EXTINF:-1 tvg-id="" group-logo="https://www.etvwin.com/assets/img/logo-25.png" tvg-logo="https://etv-win-image.akamaized.net/etvwin/live/channel/47688/etv-andhra-pradesh-320x240.jpg" group-title="ETV Win",ETV Andhra Pradesh
 https://d14vo2b97spizt.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264-3_cloud_in/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetelugu/channel_list/1170x658withlogo383e4b53bf8f4558a0ac9ce2657ba342.png" group-logo="" group-title="ZEE5", Zee Telugu
+https://live.drmlive-02.workers.dev/zee/zeetelugu.m3u8
+
+#EXTINF:-1 tvg-id="zee-cinemalu" tvg-name="Zee Cinemalu" tvg-language="Telugu" tvg-country="IN"
+group-title="ZEE5" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/mzmazx.png" tvg-chno="zee-cinemalu" group-title="Movies",Zee Cinemalu
+https://live.drmlive-02.workers.dev/zee/zeecinemalu.m3u8
+
+
+
 #EXTINF:-1 tvg-id="291" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="SonyLIV",SONY HD
 https://dai.google.com/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
 
