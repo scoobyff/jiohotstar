@@ -115,8 +115,14 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetelgu/default/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"hdntl=exp=1726863011~acl=%2fbpk-tv%2firdeto_com_Channel_250%2foutput%2f*~id=1436929705~data=hdntl~hmac=f21d37256a77a2e29943135f8317e98cd67cc9086a55e41b2a54dcf3b1dcfc4c"}
 https://delta12tatasky.akamaized.net/out/i/22.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="STAR Maa HD 2" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25361-jhsvr3nc-v1/imageContent-25361-jhsvr3nc-m1.png" tvg-language="Telugu", STAR Maa HD 2
 https://phdown.serv00.net/Smartv.php?id=starmaa_raj
+
+#EXTINF:-1 tvg-id="" tvg-name="STAR Maa Movies HD" tvg-logo="" tvg-language="Telugu", STAR Maa Movies HD
 https://phdown.serv00.net/Smartv.php?id=starmaamovies_raj
+
+#EXTINF:-1 tvg-id="" tvg-name="STAR Movies HD" tvg-logo="" tvg-language="Telugu", STAR Movies HD
 https://phdown.serv00.net/Smartv.php?id=starmovies_raj
 
 
