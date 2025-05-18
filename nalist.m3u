@@ -73,15 +73,14 @@ https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/rbuqua75
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 http://amit-1.allinonereborn.in/tplaydrm/manifest.mpd?id=78|X-Forwarded-For=59.178.74.184&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
 
-#EXTINF:-1 tvg-logo="https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/4/1/2/1440412_willowtvlogo_775034.jpg" group-title="IPL", Telugu
-https://psplayflix.site/2025/ps_ipl-liv.m3u8?ps=mal|Referer=https://psplay.site/
+#EXTINF:-1 tvg-logo="https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/4/1/2/1440412_willowtvlogo_775034.jpg" group-title="IPL", SS2 Telugu
+https://jcevents.hotstar.com/bpk-tv/Syn_StarSports_2_Tel/Fallback/Join@scoobystreams.m3u8?%7Ccookie=hdntl=exp=1747625175~acl=%2f*~id=86ff7d6548a090b455baf26a1dcc0602~data=hdntl~hmac=6d9f2f1ade390aef1edcdba1f02392eb8d957a6add7db45709a328263ff7ef49&user-agent=Hotstar;in.startv.hotstar/25.03.19.2.11274%20(Android/10)
 
-#EXTINF:-1 tvg-id="ts235" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Star Sports 2 HD.png" group-title="IPL",Star Sports 2 HD
+#EXTINF:-1 tvg-id="ts235" tvg-logo="" group-title="IPL",Astro 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tp.drmlive-01.workers.dev?id=235
+#KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-http://amit-1.allinonereborn.in/tplaydrm/manifest.mpd?id=235|X-Forwarded-For=59.178.74.184&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+https://techy-kuldeep-astro-nine.vercel.app/2504/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="IPL", FANCODE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
