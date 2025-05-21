@@ -41,8 +41,8 @@ https://github.com/scoobyff/jiohotstar/raw/main/willow.m3u8
 
 #EXTINF:-1 tvg-logo="https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/4/1/2/1440412_willowtvlogo_775034.jpg" group-title="IPL", WILLOW M1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=17fdc301b4b3f287d677a9c78ad7390f:fffe43525d0174bfb85c554745033ab1
-https://ABGQJFUAAAAAAAAMAV7PO4DADDXCP.3007398bbfbc48519da85e27046d92d4.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ls8fclcjtw/out/v1/23acded08cc74d1188c493af74805fc8/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=0552ccc901ba600c6ec9e877727dde09:9e91ce6556f7898d9c3c9b8127e2f401
+https://ABGQJFUAAAAAAAAMDZ7HL4OPI42W6.9a8ab70480e0435593fc9baeac7aba25.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/dbwb8x52jl/out/v1/b4aadd8404dd4b399230bf0a736c003a/cenc.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="IPL", WILLOW M2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
