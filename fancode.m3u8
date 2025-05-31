@@ -1,6 +1,17 @@
-#EXTINF:-1 tvg-id="956" tvg-name="STAR Maa HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25361-jhsvr3nc-v1/imageContent-25361-jhsvr3nc-m1.png" tvg-language="Telugu", STAR Maa HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dcd1983a9a4e43efa321b5959495243b:6624d7afdc0c19c081a54c24ec87c0bb
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTHTTP:{"cookie":"hdntl=exp=1726863011~acl=%2fbpk-tv%2firdeto_com_Channel_250%2foutput%2f*~id=1436929705~data=hdntl~hmac=f21d37256a77a2e29943135f8317e98cd67cc9086a55e41b2a54dcf3b1dcfc4c"}
-https://delta12tatasky.akamaized.net/out/i/22.mpd
+#EXTM3U 
+#EXT-X-TARGETDURATION:5 
+#EXT-X-MEDIA-SEQUENCE:437175618 
+#EXT-X-VERSION:3 
+#EXT-X-KEY:METHOD=AES-128,URI="https://sonydaimenew.akamaized.net/hls/live/2043696/DAI26MW/serve.key?hdntl=exp=1748788836~acl=/*~id=15567843782401231235030733489~data=hdntl~hmac=d87ea0951ea63c62e2de310898f95cf12c3400a8342a9727962199c0ae6f4018&aka_me_session_id=AAAAAAAAAABkZjxoAAAAANfMpWPZCfOW3HMIEreC3m33DQrd4NH4G7G5PbpKgTrp7oSyfDYqQ3sxPm1m5XK7yyZCiId0+DmR&aka_media_format_type=hls" 
+#EXTINF:4.000, 
+1-437175618.ts?aka_me_session_id=AAAAAAAAAABkZjxoAAAAANfMpWPZCfOW3HMIEreC3m33DQrd4NH4G7G5PbpKgTrp7oSyfDYqQ3sxPm1m5XK7yyZCiId0+DmR&aka_msn=437175618&aka_hls_version=3&aka_media_format_type=hls 
+#EXTINF:4.000, 
+1-437175619.ts?aka_me_session_id=AAAAAAAAAABkZjxoAAAAANfMpWPZCfOW3HMIEreC3m33DQrd4NH4G7G5PbpKgTrp7oSyfDYqQ3sxPm1m5XK7yyZCiId0+DmR&aka_msn=437175619&aka_hls_version=3&aka_media_format_type=hls 
+#EXTINF:4.000, 
+1-437175620.ts?aka_me_session_id=AAAAAAAAAABkZjxoAAAAANfMpWPZCfOW3HMIEreC3m33DQrd4NH4G7G5PbpKgTrp7oSyfDYqQ3sxPm1m5XK7yyZCiId0+DmR&aka_msn=437175620&aka_hls_version=3&aka_media_format_type=hls 
+#EXTINF:4.000, 
+1-437175621.ts?aka_me_session_id=AAAAAAAAAABkZjxoAAAAANfMpWPZCfOW3HMIEreC3m33DQrd4NH4G7G5PbpKgTrp7oSyfDYqQ3sxPm1m5XK7yyZCiId0+DmR&aka_msn=437175621&aka_hls_version=3&aka_media_format_type=hls 
+#EXTINF:4.000, 
+1-437175622.ts?aka_me_session_id=AAAAAAAAAABkZjxoAAAAANfMpWPZCfOW3HMIEreC3m33DQrd4NH4G7G5PbpKgTrp7oSyfDYqQ3sxPm1m5XK7yyZCiId0+DmR&aka_msn=437175622&aka_hls_version=3&aka_media_format_type=hls 
+#EXTINF:4.000, 
+1-437175623.ts?aka_me_session_id=AAAAAAAAAABkZjxoAAAAANfMpWPZCfOW3HMIEreC3m33DQrd4NH4G7G5PbpKgTrp7oSyfDYqQ3sxPm1m5XK7yyZCiId0+DmR&aka_msn=437175623&aka_hls_version=3&aka_media_format_type=hls
