@@ -1,1 +1,7 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="956" tvg-name="STAR Maa HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25361-jhsvr3nc-v1/imageContent-25361-jhsvr3nc-m1.png" tvg-language="Telugu", STAR Maa HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dcd1983a9a4e43efa321b5959495243b:6624d7afdc0c19c081a54c24ec87c0bb
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://delta12tatasky.akamaized.net/out/i/22.mpd
