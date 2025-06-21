@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Sony BBC Earth HD - Master Playlist</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <script src="https://cdn.jsdelivr.net/npm/hls.js@1.4.0/dist/hls.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/dplayer@1.26.0/dist/DPlayer.min.js"></script>
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      background: #000;
+      height: 100%;
+      width: 100%;
+      overflow: hidden;
+    }
+    #dplayer {
+      width: 100%;
+      height: 100%;
+    }
+  </style>
+</head>
+<body>
+  <div id="dplayer"></div>
+
+  <script>
+    const dp = new DPlayer({
+      container: document.getElementById('dplayer'),
+      autoplay: true,
+      volume: 0.8,
+      video: {
+        url: 'https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master_3500.m3u8',
+        type: 'hls'
+      }
+    });
+
+    // Force autoplay with sound (with fallback)
+    const tryAutoPlay = async () => {
+      const video = dp.video;
+      try {
+        video.muted = false;
+        video.volume = 0.8;
+        await video.play();
+      } catch {
+        try {
+          video.muted = true;
+          await video.play();
+          video.muted = false;
+        } catch {}
+      }
+    };
+
+    tryAutoPlay();
+
+    ['click', 'touchstart', 'keydown'].forEach(evt =>
+      document.addEventListener(evt, () => {
+        if (dp.video.muted) {
+          dp.video.muted = false;
+          dp.video.volume = 0.8;
+        }
+      }, { once: true })
+    );
+  </script>
+</body>
+</html>
